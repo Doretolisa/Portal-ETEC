@@ -18,7 +18,7 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav" style="width: 100%;">
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Escola</a>
+                <a class="nav-link active" aria-current="page" href="http://www.etelg.com.br/">Escola</a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link" href="index.html">Cursos</a>
@@ -37,9 +37,10 @@
                 <div class="conteudo">
                     <h1 class="fs-1" id="titulo" style="color: white; text-align:center"></h1>
                     <p id="descricao" class="text-center"></p>
-                    <h4>Conteudo</h4>
+                    <h4>Conteúdo</h4>
                     <ul id="conteudoCurso"></ul>
                     <p><strong>Duração:</strong> <span id="duracao"></span></p> 
+                    <strong><a href="" id="linkMatriz">Matriz Curricular</a></strong>
                 </div>
             </div>
         </div>
@@ -60,6 +61,7 @@
         document.getElementById("imagemCurso").src = curso.img;
         document.getElementById("descricao").textContent = curso.descricao;
         document.getElementById("duracao").textContent = curso.duracao;
+        document.getElementById("linkMatriz").href = curso.matriz;
 
         // preenche o conteúdo do curso
         const containerConteudo = document.getElementById("conteudoCurso");
