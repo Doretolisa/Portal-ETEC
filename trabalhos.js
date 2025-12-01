@@ -23,25 +23,18 @@ const trabalhos = [
     },
     {
         id: 4,
-        titulo: "Visita Técnica",
-        tipo: "imagem",
-        imagem: "http://www.etelg.com.br/paginaete/museu_da_bolsa.HTM",
-        link: "http://www.etelg.com.br/paginaete/museu_da_bolsa.HTM",
-        legenda: "Visita técnica do 2G",
-    },
-    {
-        id: 4,
-        titulo: "Vídeo de Trabalho 4",
+        titulo: "Trabalho De Inglês 1ºN - 2023",
         tipo: "video",
         videoID: "adXdTLZzhnE",
-        legenda: "Trabalho em vídeo — experimento escolar",
+        legenda: "OscarEte 2023 - The Office (T3E4) 1°N - ETEC Lauro Gomes",
     },
     {
         id: 5,
-        titulo: "Vídeo de Trabalho 5",
-        tipo: "video",
-        videoID: "RhMAEadCeUE",
-        legenda: "Demonstração prática no laboratório",
+        titulo: "Projetos interdisciplinares apresentados pelas turmas 1R e 1S",
+        tipo: "imagem",
+        imagem: "http://www.etelg.com.br/projeto1r-1s.JPG",
+        link: "http://www.etelg.com.br/paginaete/projetos1R_1S-2025.htm",
+        legenda: "Projeto das turmas 1R e 1S",
     },
     {
         id: 6,
@@ -49,13 +42,6 @@ const trabalhos = [
         tipo: "video",
         videoID: "QatUR8p3gyE",
         legenda: "Apresentação de projeto interdisciplinar",
-    },
-    {
-        id: 7,
-        titulo: "Vídeo de Trabalho 7",
-        tipo: "video",
-        videoID: "RTehbOgxF8s",
-        legenda: "Vídeo final de entrega",
     }
 ];
 // {
