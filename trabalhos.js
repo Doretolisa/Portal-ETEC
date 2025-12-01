@@ -33,7 +33,7 @@ const trabalhos = [
         id: 4,
         titulo: "Vídeo de Trabalho 4",
         tipo: "video",
-        videoID: "watch?v=RTehbOgxF8s",
+        videoID: "adXdTLZzhnE",
         legenda: "Trabalho em vídeo — experimento escolar",
     },
     {
