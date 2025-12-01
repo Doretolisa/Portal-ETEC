@@ -218,6 +218,10 @@ header{
     .navbar-nav{
         align-items: baseline;
     }
+    .objetosCurso{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 }
 @media (min-width: 990px){
     .navbar-nav{
