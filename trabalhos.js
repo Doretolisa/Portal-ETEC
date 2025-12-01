@@ -1,27 +1,33 @@
 const trabalhos = [
     {
         id: 1,
-        titulo: "Cobra Kai S1 E5",
+        titulo: "Trabalho De Inglês 1ºD",
         tipo: "video",
         videoID: "UnW-wd976mM?si=jzKv_jZZyrjaw0nD",
-        legenda: "Serie do Jeff - Cobra Kai S1 E5 ",
-        descricao: "Projeto envolvendo servo motores, sensores e Arduino em um braço robótico funcional."
+        legenda: "Filme Prison Tec 1ºD Automação Industrial PI",
     },
     {
         id: 2,
-        titulo: "Experimento Químico",
+        titulo: "Trabalho De Inglês 2ºY",
         tipo: "video",
-        videoID: "UnW-wd976mM",
-        legenda: "Experimento feito no laboratório",
-        descricao: "Alunos demonstrando reações químicas."
+        videoID: "Etguh96FMnQ?si=fVmejMxgyZIMJBA1",
+        legenda: "Archive 2040 - Jeffs Movie (etelg)",
     },
     {
         id: 3,
-        titulo: "Vídeo de Trabalho 3",
-        tipo: "video",
-        videoID: "EYYVf_0wWy0",
-        legenda: "Trabalho em vídeo — aula de demonstração",
-        descricao: "Projeto feito pelos alunos, gravado para mostrar o passo a passo."
+        titulo: "Projeto Occhiro",
+        tipo: "imagem",
+        imagem: "http://www.etelg.com.br/NOVEMBRO%202025%20-%20DESAFIO%20MAKER%20FECAP%202025%20-%2015%20NOV.%202025.jpg",
+        link: "http://www.etelg.com.br/paginaete/NOVEMBRO 2025 - DESAFIO MAKER FECAP 2025 - 15 NOV. 2025.PDF",
+        legenda: "Projeto participannte da FECAPS",
+    },
+    {
+        id: 4,
+        titulo: "Visita Técnica",
+        tipo: "imagem",
+        imagem: "http://www.etelg.com.br/paginaete/museu_da_bolsa.HTM",
+        link: "http://www.etelg.com.br/paginaete/museu_da_bolsa.HTM",
+        legenda: "Visita técnica do 2G",
     },
     {
         id: 4,
@@ -29,7 +35,6 @@ const trabalhos = [
         tipo: "video",
         videoID: "adXdTLZzhnE",
         legenda: "Trabalho em vídeo — experimento escolar",
-        descricao: "Experimento documentado e apresentado por alunos."
     },
     {
         id: 5,
@@ -37,7 +42,6 @@ const trabalhos = [
         tipo: "video",
         videoID: "RhMAEadCeUE",
         legenda: "Demonstração prática no laboratório",
-        descricao: "Vídeo mostrando a execução de um trabalho prático em laboratório."
     },
     {
         id: 6,
@@ -45,7 +49,6 @@ const trabalhos = [
         tipo: "video",
         videoID: "QatUR8p3gyE",
         legenda: "Apresentação de projeto interdisciplinar",
-        descricao: "Projeto feito por alunos de diferentes disciplinas, com explicação e resultados."
     },
     {
         id: 7,
@@ -53,6 +56,12 @@ const trabalhos = [
         tipo: "video",
         videoID: "RTehbOgxF8s",
         legenda: "Vídeo final de entrega",
-        descricao: "Entrega final do trabalho em formato de vídeo, com análise e conclusão."
     }
 ];
+// {
+//     id: 1,
+//     titulo: "Grupo de WhatsApp",
+//     tipo: "aviso",
+//     link: "http://www.etelg.com.br/WHATSAPP_SECRETARIA.JPG",
+//     imagem: "/img/aviso1.png"
+// },
