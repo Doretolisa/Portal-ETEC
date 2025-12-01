@@ -15,7 +15,7 @@ const trabalhos = [
     },
     {
         id: 3,
-        titulo: "Projeto Occhiro",
+        titulo: "Projeto Occhio",
         tipo: "imagem",
         imagem: "/src/NOVEMBRO 2025 - DESAFIO MAKER FECAP 2025 - 15 NOV. 2025.jpg",
         link: "http://www.etelg.com.br/paginaete/NOVEMBRO 2025 - DESAFIO MAKER FECAP 2025 - 15 NOV. 2025.PDF",
