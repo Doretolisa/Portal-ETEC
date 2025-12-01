@@ -32,22 +32,15 @@ const trabalhos = [
         id: 5,
         titulo: "Projetos interdisciplinares apresentados pelas turmas 1R e 1S",
         tipo: "imagem",
-        imagem: "http://www.etelg.com.br/paginaete/projetos1R_1S-2025_arquivos/image003.jpg",
+        imagem: "/src/projetos1R_1S-2025",
         link: "http://www.etelg.com.br/paginaete/projetos1R_1S-2025.htm",
         legenda: "Projeto das turmas 1R e 1S",
     },
     {
         id: 6,
-        titulo: "Vídeo de Trabalho 6",
+        titulo: "Trabalho De Inglês - 2022",
         tipo: "video",
         videoID: "QatUR8p3gyE",
-        legenda: "Apresentação de projeto interdisciplinar",
+        legenda: "Trabalho Jeff - Os Peaky Blinders - ETEC LAURO GOMES",
     }
 ];
-// {
-//     id: 1,
-//     titulo: "Grupo de WhatsApp",
-//     tipo: "aviso",
-//     link: "http://www.etelg.com.br/WHATSAPP_SECRETARIA.JPG",
-//     imagem: "/img/aviso1.png"
-// },
